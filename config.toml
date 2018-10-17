@@ -1,0 +1,38 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Joeri Damme's blog"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+disqusShortname = "joeridamme"
+# Enable gogle analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-minimalist-theme"
+
+[params]
+    site_author = "Joeri Damme"
+    site_description = "The awesome blog of Joeri Damme"
+    location = "The Netherlands"
+    # Link custom assets relative to /static
+    avatar = "img/photo-small.png"
+    header_background = "img/apple-device-blur-blurry.jpg"
+    header_title = "JavaScript <3"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+    custom_css = []
+    custom_js  = []
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "joerid"
+    facebook  = ""
+    linkedin  = "joeri-damme-0904495b"
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "JoeriDamme"
+    gplus     = ""
